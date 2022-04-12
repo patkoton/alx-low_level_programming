@@ -1,4 +1,5 @@
-#ifndef DEC_MAIN_H
-#define DEC_MAIN_H
-#include <"main.h">
-#endif
+#include "header.h"
+ Int main(void) 
+{
+ Puts (test ());
+}
